@@ -1,8 +1,22 @@
-dashboard 1:  https://drive.google.com/file/d/19ovwJcsyuSzmu7ijLubLvmgBoTo7iBJm/view?usp=drivesdk
-dashboard 2:  https://drive.google.com/file/d/19z3o6H7Q4LR3zwm-HRAaKLer3dK3Qaqk/view?usp=drivesdk
-dashboard 3:  https://drive.google.com/file/d/1A2248W8zUkq-7FO4TZQX5OjjDyl_5qEU/view?usp=drivesdk 
+Dashboard 1 ;   https://public.tableau.com/app/profile/vishwanathan.r/viz/vishwaproject/Dashboard1?publish=yes
 
-story link :  https://drive.google.com/file/d/1AASKFXz-W7W-Hn8Gc62EIo5n7Qg_ePR1/view?usp=drivesdk
+Dashboard 2 ;   https://public.tableau.com/app/profile/vishwanathan.r/viz/vishwaproject/Dashboard2?publish=yes
 
-video link pdf: file:///C:/Users/New/Desktop/video%20pdf.pdf
-video link    : https://drive.google.com/file/d/19Ym-JQvMytGjeeAqQUE5xs2WxYf93N2X/view?usp=drivesdk# vishwa3
+Dashboard 3 ;   https://public.tableau.com/app/profile/vishwanathan.r/viz/vishwaproject/Dashboard3?publish=yes
+
+Story 1     ;   https://public.tableau.com/app/profile/vishwanathan.r/viz/vishwaproject/Story1?publish=yes
+
+Video link  ;   https://drive.google.com/file/d/1B9ucuuy9hTqvUzF_sb9_-fJweFd32J3W/view?usp=drivesd
+
+SHEETS
+
+KPI        ;    https://public.tableau.com/app/profile/vishwanathan.r/viz/vishwaproject/KPI?publish=yes
+Model specification  ;   https://public.tableau.com/app/profile/vishwanathan.r/viz/vishwaproject/modelspecification?publish=yes
+Battery type ;   https://public.tableau.com/app/profile/vishwanathan.r/viz/vishwaproject/Battery-Type?publish=yes
+Model share  ;   https://public.tableau.com/app/profile/vishwanathan.r/viz/vishwaproject/Model-share?publish=yes
+Brand price comparison  ;   https://public.tableau.com/app/profile/vishwanathan.r/viz/vishwaproject/BrandpriceComparison?publish=yes
+County wise best selling smartphone  ;   https://public.tableau.com/app/profile/vishwanathan.r/viz/vishwaproject/countrywisebestsellingsmartphone?publish=yes
+Annual revenue    ;   https://public.tableau.com/app/profile/vishwanathan.r/viz/vishwaproject/AnnualRevenue?publish=yes
+KPI 2         ;   https://public.tableau.com/app/profile/vishwanathan.r/viz/vishwaproject/KPI2?publish=yes
+Global market share ;   https://public.tableau.com/app/profile/vishwanathan.r/viz/vishwaproject/Globalmarketshare?publish=yes
+quarterly share    ;   https://public.tableau.com/app/profile/vishwanathan.r/viz/vishwaproject/Quarterly-share?publish=yes
